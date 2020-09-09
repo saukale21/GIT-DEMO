@@ -1,2 +1,4 @@
 Welcome to GIT
-Change: Commit made by Teammate
+Change1: Commit made by Teammate
+Change2: Bug2 branch changes
+
