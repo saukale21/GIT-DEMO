@@ -1,4 +1,5 @@
 Welcome to GIT
 Change1: Commit made by Teammate
 Change2: Bug2 branch changes
+Change3: stash
 
